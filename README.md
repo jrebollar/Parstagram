@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 [Video Walkthrough](https://imgur.com/a/URjgP7U) Just incase the gif doesn't display below!
 
-<img src='https://imgur.com/a/URjgP7U' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://discord.com/channels/@me/892565023703044217/896273586376036392' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,7 +35,7 @@ Only issue I had was my emulator not being able to contact Back4Apps but a simpl
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- [Glide](httpshttps://discord.com/channels/@me/892565023703044217/896273586376036392- Image loading and caching library for Android
 
 ## License
 
